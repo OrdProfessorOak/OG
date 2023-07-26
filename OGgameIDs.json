@@ -908,85 +908,85 @@
    {
       "id":"ca44406a70769d8be0b550f6cd52691aecacee4dc370c34f84164f3d7744bb90i0",
       "meta":{
-         "name":"elixir"
+         "name":"Elixir"
       }
    },
    {
       "id":"560c74deaf43c5ac6545f17d203a570fc228acef270101fa5ce66035dc67122di0",
       "meta":{
-         "name":"escape rope"
+         "name":"Escape Rope"
       }
    },
    {
       "id":"e7fbe7a00fae82bd409d9fd9f191d245bec40bd021b7f6fb9742a082e3960706i0",
       "meta":{
-         "name":"full restore"
+         "name":"Full Restore"
       }
    },
    {
       "id":"ced272c1858a92290b996220698c7af7cf101257054ed63f9e7dcb35d7d505c1i0",
       "meta":{
-         "name":"hyper potion"
+         "name":"Hyper Potion"
       }
    },
    {
       "id":"9e1df2be7ee48750397d3b1c1268061a30d9807071d09b873093d6b1d6163168i0",
       "meta":{
-         "name":"max elixir"
+         "name":"Max Elixir"
       }
    },
    {
       "id":"53386735c1215cc5dfd0daa1ea2d52cf1f888f83c74f69e7d437483bf2f36e1fi0",
       "meta":{
-         "name":"max revive"
+         "name":"Max Revive"
       }
    },
    {
       "id":"3c31f5349bac73857864c15f7728c5ad53721a28a5ce3139a43b583a56173a95i0",
       "meta":{
-         "name":"potion"
+         "name":"Potion"
       }
    },
    {
       "id":"0634d38186df3f5c5b4fbd3f10cf89fe184d1c7d2fd85f022b0c852a7af727fbi0",
       "meta":{
-         "name":"revive"
+         "name":"Revive"
       }
    },
    {
       "id":"7452ad5dd4a93a80070ee680ccb2ca7384bf5f74bf61d10a8adae5c82aea6c5bi0",
       "meta":{
-         "name":"super potion"
+         "name":"Super Potion"
       }
    },
    {
       "id":"b32d5b75ef44bb7043728df6a0a3f46e591489402652302545f1a51db7d7f6d4i0",
       "meta":{
-         "name":"x accuracy"
+         "name":"X Accuracy"
       }
    },
    {
       "id":"3a0864e5ccc4053d3bb110417d437763456f937e5c18350213e50a0d1e281d0ei0",
       "meta":{
-         "name":"x attack"
+         "name":"X attack"
       }
    },
    {
       "id":"5f3beb630a0457d694df85583e9c9383a3286a2a4c2c7273e0ea234ab22a2dbci0",
       "meta":{
-         "name":"x defense"
+         "name":"X Defense"
       }
    },
    {
       "id":"3a9928a358e90856576f3989d6ffaba0b9726b99863330b3ab231e6acba88651i0",
       "meta":{
-         "name":"x special"
+         "name":"X Special"
       }
    },
    {
       "id":"93faff837f0ee4a38adb3a4fc015c7256fba8d8db41a6e4d81ab7b1c0be277e1i0",
       "meta":{
-         "name":"x speed"
+         "name":"X Speed"
       }
    },
    {
