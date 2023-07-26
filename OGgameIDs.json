@@ -914,31 +914,31 @@
    {
       "id":"560c74deaf43c5ac6545f17d203a570fc228acef270101fa5ce66035dc67122di0",
       "meta":{
-         "name":"escape-rope"
+         "name":"escape rope"
       }
    },
    {
       "id":"e7fbe7a00fae82bd409d9fd9f191d245bec40bd021b7f6fb9742a082e3960706i0",
       "meta":{
-         "name":"full-restore"
+         "name":"full restore"
       }
    },
    {
       "id":"ced272c1858a92290b996220698c7af7cf101257054ed63f9e7dcb35d7d505c1i0",
       "meta":{
-         "name":"hyper-potion"
+         "name":"hyper potion"
       }
    },
    {
       "id":"9e1df2be7ee48750397d3b1c1268061a30d9807071d09b873093d6b1d6163168i0",
       "meta":{
-         "name":"max-elixir"
+         "name":"max elixir"
       }
    },
    {
       "id":"53386735c1215cc5dfd0daa1ea2d52cf1f888f83c74f69e7d437483bf2f36e1fi0",
       "meta":{
-         "name":"max-revive"
+         "name":"max revive"
       }
    },
    {
@@ -956,19 +956,19 @@
    {
       "id":"7452ad5dd4a93a80070ee680ccb2ca7384bf5f74bf61d10a8adae5c82aea6c5bi0",
       "meta":{
-         "name":"super-potion"
+         "name":"super potion"
       }
    },
    {
       "id":"b32d5b75ef44bb7043728df6a0a3f46e591489402652302545f1a51db7d7f6d4i0",
       "meta":{
-         "name":"x-accuracy"
+         "name":"x accuracy"
       }
    },
    {
       "id":"3a0864e5ccc4053d3bb110417d437763456f937e5c18350213e50a0d1e281d0ei0",
       "meta":{
-         "name":"x-attack"
+         "name":"x attack"
       }
    },
    {
@@ -980,13 +980,13 @@
    {
       "id":"3a9928a358e90856576f3989d6ffaba0b9726b99863330b3ab231e6acba88651i0",
       "meta":{
-         "name":"x-special"
+         "name":"x special"
       }
    },
    {
       "id":"93faff837f0ee4a38adb3a4fc015c7256fba8d8db41a6e4d81ab7b1c0be277e1i0",
       "meta":{
-         "name":"x-speed"
+         "name":"x speed"
       }
    },
    {
